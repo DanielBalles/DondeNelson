@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CcHiprb0edACdj/4yDie0UuLbIJXb12PZ4mAv0O7WU2Y6rsv9N312Wqy4QK1tD/HbPVC+K+x8NLAGlIkxUzLNw==",
+  "success": true,
+  "projectFilePath": "F:\\Dotnetcore\\Dotnetcore.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.grapecity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
