@@ -12,3 +12,22 @@ Console.WriteLine("Hello, Wo");
 Console.WriteLine("Hello, Wor");
 Console.WriteLine("Hello, Worl");
 Console.WriteLine("Hello, World");
+
+
+if (!itsTrue)
+{
+    global::System.Console.WriteLine("comand prompt for all app");
+}
+
+void iterarcadaLetra(string palabra){
+
+    if (true)
+    {
+
+        global::System.Console.WriteLine(palabra.Substring(0, 200));
+
+
+    }
+
+
+}
